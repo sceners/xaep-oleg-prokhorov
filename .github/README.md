@@ -1,6 +1,6 @@
 # xAEP by Oleg Prokhorov.
 
-#### Written in November 2000.
+#### Written in April 2000.
 
 [Original package](https://defacto2.net/f/a92169c)
 
