@@ -1,0 +1,22 @@
+        This software is provided "as is". In no event shall I, the author,
+        be liable for any kind of loss or damage arising out of the use,
+        abuse or the inability to use this software.
+
+        ****             USE IT ENTIRELY AT YOUR OWN RISK!             ****
+
+        This software comes without any kind of warranty, either expressed
+        or implied, including, but not limited to the implied warranties of
+        merchantability or fitness for any particular purpose.
+
+        If you don't agree with these terms or if your juristdiction does
+        not allow the exclusion of warranty and liability as stated above
+        you are NOT allowed to use this software at all.
+
+        xAEP is free for non-profitable usage (you are prohibited to
+        charge money for it).
+
+        You mustn't change the contents of xAEP archive (modify or
+        delete any file in it).
+
+        Feel free to upload xAEP to any BBS or site, or including it
+        on a CD..

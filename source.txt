@@ -1,0 +1,12 @@
+Tools
+-----
+Assembler:
+NASM - Netwide Assembler
+http://www.web-sites.co.uk/nasm/index.html
+ftp://ftp.simtel.net/pub/simtelnet/msdos/asmutl/
+
+Linker:
+ALINK - Linker
+http://alink.home.dhs.org
+which redirects to
+http://www.geocities.com/SiliconValley/Network/4311/
