@@ -16,11 +16,11 @@
 
 ---
 
+## xAEP by Oleg Prokhorov
 
-                                                   xAEP by Oleg Prokhorov
-                                             'Addition Encode-Protective'
-                                                                  remover
-                                                            09-April-2000
+- 'Addition Encode-Protective'
+- remover
+- 09-April-2000
 
 xAEP
 --------------
